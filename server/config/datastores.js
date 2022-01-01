@@ -50,8 +50,7 @@ module.exports.datastores = {
 
     adapter: "sails-postgresql",
     url: "postgresql://zishan:none@localhost:5432/zishan",
-    // url: "postgres://tskwavssxgvtgo:c11e06d4b005da5bd3e2745663837ac919590b571bfe3a1a0f493caa9924a500@ec2-54-228-174-49.eu-west-1.compute.amazonaws.com:5432/dau8e7um3f5p1q",
-
+    
     // ssl: { rejectUnauthorized: false },
   },
 };
